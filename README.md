@@ -1,5 +1,7 @@
 # 💫 About Me:
-## 👨‍💻 I'm working on<br>- Labeling Dashboard for **SeeNous Company**<br>- Motion Amplification R&D for **SeeNous Company**<br>- Two Journal Papers<br>- Improving My Overall CV<br><br>## 📚 I'm learning<br>- MLOps  <br>- Tableau  <br>- MongoDB  <br>- Predictive Condition Monitoring  <br>- Bioinformatics  <br><br>## 📬 Reach me via<br>📧 **rastin.maleki.m@gmail.com**
+###👨‍💻 I'm working on<br>- Labeling Dashboard for **SeeNous Company**<br>- Motion Amplification R&D for **SeeNous Company**<br>- Two Journal Papers<br>- Improving My Overall CV<br><br>
+### 📚 I'm learning<br>- MLOps  <br>- Tableau  <br>- MongoDB  <br>- Predictive Condition Monitoring  <br>- Bioinformatics  <br><br>
+### 📬 Reach me via<br>📧 **rastin.maleki.m@gmail.com**
 
 
 ## 🌐 Socials:
