@@ -1,10 +1,10 @@
 # 💫 About Me:
 ### 👨‍💻 I'm mostly busy with: <br>
 - Multiple projects for **SeeNous Company**<br>
-- Two journal papers<br>
 ### 📚 I'm also learning: <br>
 - MLOps tools and technologies by [MLOps | Machine Learning Operations Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke) <br> 
 - NLP advanced concepts by [Dan Jurafsky and Chris Manning course on youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ) <br>
+- Django famework 
 ### 📬 Reach me via<br>📧 **rastin.maleki.m@gmail.com**
 
 
